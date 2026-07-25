@@ -1,0 +1,2 @@
+- Conda environment requirements:  conda create -n seas_env -c conda-forge python=3.11 jupyterlab pandas numpy xarray netcdf4 erddapy geopandas cartopy matplotlib seaborn
+- Run 'seascape_extractor.ipynb' for monthly and 8-day seascape extractions.
